@@ -139,6 +139,7 @@ label.labs {
 }
 .total {
   color: var(--color-text);
+  min-height: 60px;
 }
 .inpt {
   margin-bottom: 15px;
